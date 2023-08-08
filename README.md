@@ -1,6 +1,6 @@
 # Frontend Development with React Certification Projects
 
-![Frontend Development with React Certification Projects](./banner.png)
+![Frontend Development banner](./banner.png)
 
 Welcome! This repository hosts the projects that are part of my journey to obtain the Frontend Development with React Certification from FreeCodeCamp. Each project has been designed and built to showcase my skills in frontend development using React as the primary library.
 
@@ -8,7 +8,7 @@ Through these projects, I have gained experience in React usage, DOM manipulatio
 
 ## Projects
 
-<!-- 1. **Random Quote Machine**
+1. **Random Quote Machine**
    - [Preview](https://your-quote-machine-demo-url)
    - Description: An application that displays random quotes and allows sharing them on Twitter.
 
@@ -26,7 +26,7 @@ Through these projects, I have gained experience in React usage, DOM manipulatio
 
 5. **Pomodoro Clock**
    - [Preview](https://your-pomodoro-clock-demo-url)
-   - Description: A Pomodoro clock that alternates between work and break time intervals. -->
+   - Description: A Pomodoro clock that alternates between work and break time intervals.
 
 
 ## How to View Each Project
