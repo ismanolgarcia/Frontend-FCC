@@ -33,4 +33,4 @@ You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and
 
 
 ![Frontend Development banner](./public/randomQuote.jpeg)
-[Preview](https://your-quote-machine-demo-url)
+[Preview](https://randomquote-black.vercel.app/)

@@ -9,10 +9,10 @@ Through these projects, I have gained experience in React usage, DOM manipulatio
 ## Projects
 
 1. **Random Quote Machine**
-   - [Preview](https://your-quote-machine-demo-url)
+   - [Preview](https://randomquote-black.vercel.app/)
    - Description: An application that displays random quotes and allows sharing them on Twitter.
 
-2. **Markdown Previewer**
+<!-- 2. **Markdown Previewer**
    - [Preview](https://your-markdown-previewer-demo-url)
    - Description: A Markdown editor that shows real-time previews of the formatted content.
 
@@ -26,7 +26,7 @@ Through these projects, I have gained experience in React usage, DOM manipulatio
 
 5. **Pomodoro Clock**
    - [Preview](https://your-pomodoro-clock-demo-url)
-   - Description: A Pomodoro clock that alternates between work and break time intervals.
+   - Description: A Pomodoro clock that alternates between work and break time intervals. -->
 
 
 ## How to View Each Project
