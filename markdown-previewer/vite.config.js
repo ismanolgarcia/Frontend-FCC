@@ -5,8 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   build: {
     rollupOptions: {
-      external: ['styled-components'], // Agrega otros módulos aquí si es necesario
+      external: ['styled-components'], 
     },
+  },
   plugins: [react()],
-})
-
+});
