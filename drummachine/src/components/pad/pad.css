@@ -1,0 +1,29 @@
+.drum-pad {
+  width: 90px;
+  height: 90px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #5885af;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px #41729f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.drum-pad:active {
+  box-shadow: none;
+  background-color: #c3e0e5;
+  transform: translateY(5px);
+}
+
+.drum-pad.key-active {
+  box-shadow: none;
+  background-color: #c3e0e5;
+  transform: translateY(5px);
+}

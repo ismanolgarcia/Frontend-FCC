@@ -1,0 +1,22 @@
+#drum-machine {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  border: 5px solid black;
+  padding: 25px;
+  align-items: center;
+  background-color: #274472;
+}
+
+@media (max-width: 767px) {
+  .container {
+    flex-direction: column;
+  }
+  #drum-machine {
+    width: 100%
+  }
+}

@@ -1,0 +1,16 @@
+a img {
+  width: 80px;
+}
+
+a {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+@media (max-width: 767px) {
+  a {
+    margin-top: 180px;
+    margin-left: 280px;
+  }
+}
