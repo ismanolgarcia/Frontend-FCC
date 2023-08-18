@@ -35,5 +35,5 @@ Here are some audio samples you can use for your drum machine:
 
 
 ![Frontend Development banner](./public/banner.png)
-[Preview](link)
+[Preview](https://drum-machine-react-fcc1.netlify.app/)
 

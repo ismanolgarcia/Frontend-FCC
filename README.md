@@ -12,14 +12,14 @@ Through these projects, I have gained experience in React usage, DOM manipulatio
    - [Preview](https://randomquote-black.vercel.app/)
    - Description: An application that displays random quotes and allows sharing them on Twitter.
 
-<!-- 2. **Markdown Previewer**
-   - [Preview](https://your-markdown-previewer-demo-url)
+2. **Markdown Previewer**
+   - [Preview](https://markdown-previewer-md.netlify.app/)
    - Description: A Markdown editor that shows real-time previews of the formatted content.
 
 3. **Drum Machine**
-   - [Preview](https://your-drum-machine-demo-url)
+   - [Preview](https://drum-machine-react-fcc1.netlify.app/)
    - Description: An interactive drum machine that plays sounds when clicking buttons or using specific keys.
-
+<!-- 
 4. **JavaScript Calculator**
    - [Preview](https://your-javascript-calculator-demo-url)
    - Description: A functional calculator that performs basic math operations.
