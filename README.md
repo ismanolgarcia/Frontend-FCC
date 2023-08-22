@@ -19,11 +19,11 @@ Through these projects, I have gained experience in React usage, DOM manipulatio
 3. **Drum Machine**
    - [Preview](https://drum-machine-react-fcc1.netlify.app/)
    - Description: An interactive drum machine that plays sounds when clicking buttons or using specific keys.
-<!-- 
 4. **JavaScript Calculator**
-   - [Preview](https://your-javascript-calculator-demo-url)
+   - [Preview](https://calculator-fcc-react.netlify.app/)
    - Description: A functional calculator that performs basic math operations.
 
+<!-- 
 5. **Pomodoro Clock**
    - [Preview](https://your-pomodoro-clock-demo-url)
    - Description: A Pomodoro clock that alternates between work and break time intervals. -->
