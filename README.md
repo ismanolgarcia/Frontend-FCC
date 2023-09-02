@@ -23,10 +23,10 @@ Through these projects, I have gained experience in React usage, DOM manipulatio
    - [Preview](https://calculator-fcc-react.netlify.app/)
    - Description: A functional calculator that performs basic math operations.
 
-<!-- 
-5. **Pomodoro Clock**
-   - [Preview](https://your-pomodoro-clock-demo-url)
-   - Description: A Pomodoro clock that alternates between work and break time intervals. -->
+
+5. **25 + 5 Clock**
+   - [Preview](https://25-5-clock-fcc-react.netlify.app/)
+   - Description: A Pomodoro clock that alternates between work and break time intervals.
 
 
 ## How to View Each Project
@@ -47,6 +47,6 @@ To run any of the projects on your local machine, follow the detailed instructio
 
 For more information about FreeCodeCamp or the Frontend Development with React Certification, visit the official FreeCodeCamp website: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 
-Thanks for visiting my repository and reviewing my projects! If you have any questions or suggestions, feel free to contact me. You can find me on [Your GitHub Profile](https://github.com/your-username).
+Thanks for visiting my repository and reviewing my projects! If you have any questions or suggestions, feel free to contact me. You can find me on [Your GitHub Profile](https://github.com/ismanolgarcia).
 
 Happy coding! 🚀
